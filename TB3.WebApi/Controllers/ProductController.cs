@@ -149,3 +149,8 @@ public class ProductGetResponseDto
 {
     public string ProductName { get; set; }
 }
+
+public class ProductGetListResponseDto
+{
+
+}
